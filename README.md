@@ -26,5 +26,3 @@
 * [移动端优化](http://zhibimo.com/read/Ashu/front-end-style-guide/mobile-optimize/index.html)
 * [工具箱](http://zhibimo.com/read/Ashu/front-end-style-guide/tool/index.html)
 * [参考](http://zhibimo.com/read/Ashu/front-end-style-guide/reference/index.html)
-
-![](https://raw.githubusercontent.com/Aaaaaashu/Front-End-Style-Guide/master/img/husky.png)
